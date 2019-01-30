@@ -1,4 +1,4 @@
-/* HTML5 ✰ Boilerplate
+﻿ /* HTML5 ✰ Boilerplate
  * ==|== normalize ==========================================================
  */
 
@@ -105,6 +105,18 @@ dfn {
   font-style: italic;
 }
 
+h2 {
+    font-size: 3em;
+    font-family: 'Exo 2';
+    padding: 0px 5px 5px 0px;
+
+}
+
+.icons a {
+	font-size: 36px;
+	margin-right: 2.5vw;
+}
+
 hr {
   display: block;
   height: 1px;
@@ -137,6 +149,10 @@ pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word;
+}
+
+p {
+    padding-right: 15px;
 }
 
 q {
@@ -295,6 +311,22 @@ td {
 .fa-instagram{
   font-size: 21px;
   margin-top: -2px;
+}
+
+.fa-github{
+  font-size: 30px;
+}
+
+.fa-linkedin{
+  font-size: 30px;
+}
+
+.fa-envelope{
+  font-size: 30px;
+}
+
+.fa-medium{
+  font-size: 30px;
 }
 
 
@@ -763,6 +795,7 @@ td {
     width: 50%;
     display: inline-block;
     float:left;
+    margin-top: 30px;
   }
 
 
