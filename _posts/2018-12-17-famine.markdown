@@ -1,0 +1,20 @@
+---
+layout: post-wide
+hero-bg-color: "#564675"
+uid: famine
+title:  "Continuous Famines"
+worktype: "Research"
+date:   2018-12-17 01:01:01
+categories: project
+project_site_url: https://github.com/db7894/
+project_site_slug: https://github.com/db7894/
+role: Researcher / Project Manager
+dates: 2018 - 2 months
+team:
+- Daniel Bashir, Owen Gillespie, Joe Nunez, Sonia Sehra
+stack: Mathematics (theoretical project)
+contribution:
+- Extended the Famine of Forte result placing bounds on likely successful search problems and algorithms to a continuous setting
+- Developed novel ways of understanding a learning process in order to achieve provable bounds
+- Gave a final presentation on our work and results with the rest of the team
+---

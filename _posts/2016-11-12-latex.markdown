@@ -1,0 +1,21 @@
+---
+layout: post-wide
+hero-bg-color: "#564675"
+uid: latex
+title:  "Real-Time LaTeX Messenger"
+worktype: "Development"
+date:   2018-10-20 01:01:01
+categories: project
+project_site_url: https://github.com/PythonNut/realtime-latex-messenger
+project_site_slug: https://github.com/PythonNut/realtime-latex-messenger
+personal_project: true
+role: Developer
+dates: 2016 - 2 days
+team:
+- Daniel Bashir, Jonathan Hayase, Xingyao Chen, Jacky Lee, Tyler Sam
+stack: Python, Socket, MathJax, LaTeX, HTML/CSS/JS
+contribution:
+- Developed an online math-messenger app that supports real-time rendering of LaTeX with MathJax
+- Used Python's Socket library to allow the app to connect and send messages between computers
+- Placed 1st in the Intermediate Division at the 2016 5C Hackathon
+---
