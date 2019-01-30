@@ -1,0 +1,19 @@
+---
+layout: post-wide
+hero-bg-color: "#564675"
+uid: tsp
+title:  "Traveling Salesman with Triangle Inequality"
+worktype: "Development"
+date:   2018-10-20 01:01:01
+categories: project
+project_site_url: https://github.com/db7894/
+project_site_slug: https://github.com/db7894/
+role: Student
+dates: 2018
+team:
+- Daniel Bashir
+stack: Python, matplotlib
+contribution:
+- Wrote an approximation algorithm for the Traveling Salesman Problem (with the Triangle Inequality assumption) on top of my implementation of Dijkstra's Algorithm with provable guarantees on optimality.
+- Plotted solutions using matplotlib
+---
