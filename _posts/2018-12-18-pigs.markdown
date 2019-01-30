@@ -12,7 +12,7 @@ personal_project: true
 role: Developer
 dates: 2018 - 2 months
 team:
-- Daniel Bashir
+- Daniel Bashir, Tse Yang Lim
 stack: R, Python, numpy, scipy
 contribution:
 - Utilized various statistical techniques in R to analyze a time series dataset of pigs slaughtered in Victoria, Canada
