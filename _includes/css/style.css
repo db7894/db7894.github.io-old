@@ -43,6 +43,12 @@ html {
   -ms-text-size-adjust: 100%;
 }
 
+.flex-center {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 body {
   margin: 0;
   font-size: 13px;
@@ -796,6 +802,13 @@ td {
     display: inline-block;
     float:left;
     margin-top: 30px;
+  }
+
+  .image-example {
+        text-align: center;
+        margin: 5% auto;
+        background-color: transparent;
+	vertical-align: middle;
   }
 
 
