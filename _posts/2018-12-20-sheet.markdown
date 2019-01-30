@@ -1,0 +1,25 @@
+---
+layout: post-wide
+hero-bg-color: "#564675"
+uid: sheet
+title:  "Sheet Identification"
+worktype: "Research & Development"
+date:   2018-12-20 01:01:01
+categories: project
+project_site_url: https://github.com/db7894/sheet_id
+project_site_slug: https://github.com/db7894/sheet_id
+role: Researcher/Developer
+dates: 2018 - 10 months
+company_description:
+- The Music Information Retrieval Lab is an Engineering lab at Harvey Mudd College that conducts research at the intersection of Machine Learning, Signal Processing, and Music.
+team:
+- Daniel Bashir, Mek Jenrungrot, Carrie (Xinyu) Yang (worked in separate teams of two with each)
+stack: Python, NLTK, Pandas, Scipy, Numpy, Matplotlib, Keras
+contribution:
+- Wrote a script to scrape 400K pdf files from the online IMSLP music database
+- Implemented a sheet music comparison system based on Deep Matching (a paper) that achieved >.94 MRR.
+- Developed object detection systems to identify numerous small objects in a high-quality image (notes in music).
+- Devised algorithms for comparing two pages of sheet music and hashing for a database of >4M pages of music.
+- (on my own) Implemented an algorithm to represent lines of sheet music by binary vectors for comparison and performed statistical analyses using this data
+- Created data from the MSMD dataset and trained an RNN architecture to recognize noteheads in sheet music
+---
