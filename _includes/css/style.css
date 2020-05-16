@@ -617,6 +617,10 @@ td {
 
   /* ==|== POST page styles ======================================== */
 
+  #blogpost-container{
+    margin: 30px;
+  }
+
   #post-container{
     margin: 0px;
   }
@@ -952,6 +956,20 @@ td {
     header .inner{
       margin: 0 15px;
     }
+
+    /* .blogposts {
+      margin: 10px 10px 10px 30px;
+    } */
+
+    .blogposts a {
+      margin-top: 100px;
+      margin-left: 30px;
+    }
+
+    .blogposts li .blogpost {
+      margin: 15px 7.5px 10px 7.5px;
+    }
+
   }
 
   @media only screen and (max-width: 600px) {
