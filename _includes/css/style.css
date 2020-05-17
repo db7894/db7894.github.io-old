@@ -51,8 +51,10 @@ html {
 
 body {
   margin: 0;
+  /* margin-left: 30px; */
   font-size: 13px;
   line-height: 1.231;
+  position: relative;
 }
 
 body, button, input, select, textarea {
@@ -158,6 +160,7 @@ pre {
 }
 
 p {
+    /* margin-left: 30px; */
     padding-right: 15px;
 }
 
@@ -960,6 +963,10 @@ td {
     /* .blogposts {
       margin: 10px 10px 10px 30px;
     } */
+    h1 {
+      margin-top: 50px;
+      margin-left: 30px;
+    }
 
     .blogposts a {
       margin-top: 100px;
