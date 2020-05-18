@@ -2,6 +2,31 @@
 layout: post
 categories: blogpost
 title: Kant on Free Will
+excerpt: Do we have free will?
 ---
 
-Hello
+Do we have free will? It's a question a lot of people like to jokingly think about--because, let's be honest, if you're most people, you're probably not going to be seriously convinced that you _don't_ have free will. Look! You just picked up your pencil! Of your own accord!
+
+But the status of free will is something that philosophy hasn't totally reached a verdict on. There are strong arguments for and against it, and I want to take a second to consider one from Kant. We'll have to touch on a few other things first.
+
+First, Kant supports something that seems pretty damning for the concept of free will. Kant believes that something called the _Principle of Sufficient Reason_ (PSR) is a precondition of our experience. The PSR states that for everything that exists or obtains, there is a reason (Della Rocca 1). That means, loosely: think of anything, like a rock. There is a _reason_ that this rock exists. Kant actually believes in a more limited version of the PSR called event-PSR: every _event_ has a reason for occurring.
+
+To say, then, that the PSR is a precondition of our experience, is to say that for you or me to make sense of the world around us, we have to understand events that occur as following from causes. To use an example of Kant, think of a boat flowing down a stream. You'll never perceive the boat as first being downstream, then being upstream. You'll never think that _could_ happen, either. So there's a particular _sequence of perceptions_ that occurs as you watch the boat go down the stream.
+
+But there's more: when the boat is downstream, how did it get there? Would you suppose this could have happened if the boat were further downstream? Probably not--the boat's being downstream is determined by its previous status of being upstream (and probably some things about the lake too, but no need to get too specific here). So, to perceive and understand the boat going downstream, your mind essentially conceives of the sequence of appearances (boat upstream, boat downstream, boat more downstream) as following from one another according to rules (physics, God, whatever you'd like).
+
+What this means for Kant is that the world of appearances--everything we see and experience--is dictated by _natural necessity_. Things that we experience follow from one another in a necessary succession. This seems pretty troubling for any idea of free will, but we'll see why Kant doesn't think so.
+
+In his antinomies, Kant presents a number of thesis/antithesis pairs. These are, according to Kant, equally valid arguments for and against a number of statements: included among these is a thesis/antithesis pair where the thesis argues that we have free will and the antithesis argues that we don't. I won't go into detail about the arguments themselves here, but Kant takes these contradictions to be symptomatic of something about reason. In particular, on Kant's view, something called _transcendental realism_ is the culprit.
+
+Transcendental realism holds that appearances "exist independently of us and our sensibility, and are therefore outside us" (Kant A369). Kant takes his antinomies to be a proof of a different view called _transcendental idealism_, which states that appearances only exist in our perception of them, i.e. _not_ independently of us.
+
+More concretely, think of an apple sitting on your kitchen table. If you're staring at that apple, you'll see a brown stem, a red body with light shining off of it, and other apple-related things. Transcendental realism would say that those things you are seeing belong to the apple itself. Transcendental idealism says that instead, the "apple" you're perceiving is a _thing in itself_, distinct from the appearance that is being presented to you. The redness, the brown stem, and anything else you see and attribute to this "apple" do not belong to the "actual" apple, but only to your perception. So you cannot say "the apple is read", but you can say "the apple _appears_ red to beings with my visual-sensory system."
+
+Cool. Where does all this get us w/r/t/ free will?
+
+We've made two main points so far:
+1. Appearances are dictated by natural necessity
+2. Appearances are distinct from things in themselves
+
+You might be able to guess where Kant is going already: natural necessity and free will don't seem compatible (indeed, they aren't). But there's still room for free will: it's just not in the world of appearances. 
