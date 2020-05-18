@@ -2,7 +2,7 @@
 layout: post
 categories: blogpost
 title: Graduating into a Pandemic
-excerpt: test
+excerpt: Time for reflection!
 ---
 
 We made it! Sort of.
