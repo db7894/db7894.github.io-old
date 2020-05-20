@@ -2,10 +2,10 @@
 layout: post
 categories: blogpost
 title: Kant on Free Will
-excerpt: Do we have free will?
+excerpt: Can Kant avoid a checkmate?
 ---
 
-Do we have free will? It's a question a lot of people like to jokingly think about--because, let's be honest, if you're most people, you're probably not going to be seriously convinced that you _don't_ have free will. Look! You just picked up your pencil! Of your own accord!
+Do we have free will? It's a question a lot of people like to (often jokingly) think about--because, let's be honest, if you're most people, you're probably not going to be seriously convinced that you _don't_ have free will (But would your certainty that you have free will cause you to abandon reason?). Look! You just picked up your pencil! Of your own accord!
 
 But the status of free will is something that philosophy hasn't totally reached a verdict on. There are strong arguments for and against it, and I want to take a second to consider one from Kant. We'll have to touch on a few other things first.
 
@@ -35,7 +35,7 @@ But to be more precise, Kant thinks that you have an _empirical character_ and a
 
 Since you as a cause-of-your-actions are distinct from how those actions actually manifest in experience, you get to have some kind of free will that exists in your intelligible character. We don't get to go so far as to say that you _actually_ have that free will, and Kant doesn't go so far as to defend this (although he would probably like to), but we can say that the natural necessity we talked about above doesn't rule out the _possibility_ of free will.
 
-In a sentence, Kant's argument is this: Given transcendental idealism, we cannot rule out the possibility of free will. 
+In a sentence, Kant's argument is this: Given transcendental idealism, we cannot rule out the possibility of free will.
 
 Kant does seem to want to take this further, to go all the way to saying that something transcendental (our free will) can influence the empirical. Kant states:
 
@@ -48,3 +48,7 @@ We get two things from this:
 This second bit is a little harder: what Kant wants to say here is that although I might be able to cause an event--like a baseball crashing through a window--using my free will and _see_ that event, I can only understand that event as occurring as part of a sequence of empirical events that follow one another according to natural necessity.
 
 This doesn't feel totally convincing (maybe I've just given a bad example--feel free to think up a different one). In fact, I'm not totally convinced that given transcendental idealism, Kant can get to a free will that is "free" in any meaningful sense.
+
+Why might this be? Well, Kant himself concedes that even if actions of the pure understanding affect something in the empirical world, there is no way we would be able to perceive those effects in the empirical world as arising from anything other than the ceaseless tumbling forward of natural necessity. Therefore, even though your free will _could_ cause some sort of effect in the empirical world, it would be wholly imperceptible.
+
+Furthermore--I find this even more troubling for Kant if he wants any meaningful sense of free will--our understanding must always conceive of things as arising from natural necessity. What this means for free will is that any act of free will on appearances could also be explained by a sequence of natural causes alone, even if the true effect is purely an act of the free will or a combination of actions of nature and the free will. Therefore, it seems that in the empirical world, free will does not have the ability to produce anything that _could not have happened otherwise_. It is certainly possible that a sequence of natural events that _would_ not have happened will occur only with free will's prodding, but that sequence of events is wholly within the space of possiblity for nature, alone and unaided.
