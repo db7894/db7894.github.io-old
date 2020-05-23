@@ -48,7 +48,7 @@ for believing in the concept of a self. We can construct a similar argument abou
 causality by disposing of the intermediate steps and instead using the observation
 that we perceive causes and effects, but nothing that conjoins those causes and
 effects. However, Hume is after a different conclusion in the case of causality
-because he believes the concept of causality is intelligible, but misguided. 
+because he believes the concept of causality is intelligible, but misguided.
 
 ### Trouble for Hume's Conclusions
 
@@ -70,12 +70,12 @@ and potential issues with deflating the self don't rescue us from the denial of
 other concepts that Hume attacks. So, where do we go from here? If you take Hume's
 premise, the rest of the argument does seem to hold its ground. If you're convinced
 by that argument, then I have only one exit door to offer you: _don't be an
-empiricist_. I think that Hume makes a strong case that we can't get concepts like
+empiricist_. I think that Hume makes a strong case that we can't derive concepts like
 causality and self from our experience alone, but I would be hard-pressed to concede
 that I have no concept of a self or causality. Where does that leave us? For the
-non-empiricist, the answer is that there may exist concepts, like the self and
+non-empiricist, the answer is that there may be concepts, like the self and
 causality, that exist _prior_ to any experience we might have. These are precisely
-the _a priori_ concepts Kant is concerned with--we will soon turn our attention first
+the _a priori_ concepts Kant is concerned with--we will soon turn our attention
 to his initial defense of causality, then to his defense of _a priori_ concepts
 more generally. First, we need to review a few definitions that will be important
 later:
