@@ -1,0 +1,9 @@
+name: Daniel Bashir
+description: Website
+author: Daniel Bashir
+analytics: UA-96559329-1
+exclude: [ _design, README ]
+# baseurl: "http://www.jonathanmatthey.com/redesign/_site/"
+url: "https://db7894.github.io"
+baseurl: ''
+environment: deployment

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Blog
+---
+
+<div style="position: relative" class="posts">
+<!-- <ul class="blogposts clearfix"> -->
+  {% for post in site.categories.blogpost %}
+    <article class="blogpost" style="margin-top: 30px">
+
+      <h1><a style="margin-left: 30px" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div style="margin-left: 30px; margin-bottom: 10px" class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a style="margin-left: 30px;" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+<!-- </ul> -->
+</div>

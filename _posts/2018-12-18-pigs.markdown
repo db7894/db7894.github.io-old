@@ -1,0 +1,23 @@
+---
+layout: post-wide
+hero-bg-color: "#564675"
+uid: pigs
+title:  "Bay of Pigs"
+worktype: "Data Analysis/Modeling"
+date:   2018-12-18 01:01:01
+categories: project
+project_site_url: https://github.com/Tseyang/Math155-Final-Project
+project_site_slug: https://github.com/Tseyang/Math155-Final-Project
+personal_project: true
+role: Developer
+dates: 2018 - 2 months
+team:
+- Daniel Bashir, Tse Yang Lim
+stack: R, Python, numpy, scipy
+contribution:
+- Utilized various statistical techniques in R to analyze a time series dataset of pigs slaughtered in Victoria, Canada
+- Performed model diagnostics with statistical tests available in R
+- Fitted various ARIMA and other time series to model and performed model diagnostics with Ljung-Box and other methods
+- Narrowed down a final model and performed forecasting on the time series
+- Gave a presentation on our findings
+---

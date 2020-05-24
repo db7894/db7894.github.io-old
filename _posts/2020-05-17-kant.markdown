@@ -1,0 +1,54 @@
+---
+layout: post
+categories: blogpost
+title: Kant on Free Will
+excerpt: Can Kant avoid a checkmate?
+---
+
+Do we have free will? It's a question a lot of people like to (often jokingly) think about--because, let's be honest, if you're most people, you're probably not going to be seriously convinced that you _don't_ have free will (But would your certainty that you have free will cause you to abandon reason?). Look! You just picked up your pencil! Of your own accord!
+
+But the status of free will is something that philosophy hasn't totally reached a verdict on. There are strong arguments for and against it, and I want to take a second to consider one from Kant. We'll have to touch on a few other things first.
+
+First, Kant supports something that seems pretty damning for the concept of free will. Kant believes that something called the _Principle of Sufficient Reason_ (PSR) is a precondition of our experience. The PSR states that for everything that exists or obtains, there is a reason (Della Rocca 1). That means, loosely: think of anything, like a rock. There is a _reason_ that this rock exists. Kant actually believes in a more limited version of the PSR called event-PSR: every _event_ has a reason for occurring.
+
+To say, then, that the PSR is a precondition of our experience, is to say that for you or me to make sense of the world around us, we have to understand events that occur as following from causes. To use an example of Kant, think of a boat flowing down a stream. You'll never perceive the boat as first being downstream, then being upstream. You'll never think that _could_ happen, either. So there's a particular _sequence of perceptions_ that occurs as you watch the boat go down the stream.
+
+But there's more: when the boat is downstream, how did it get there? Would you suppose this could have happened if the boat were further downstream? Probably not--the boat's being downstream is determined by its previous status of being upstream (and probably some things about the lake too, but no need to get too specific here). So, to perceive and understand the boat going downstream, your mind essentially conceives of the sequence of appearances (boat upstream, boat downstream, boat more downstream) as following from one another according to rules (physics, God, whatever you'd like).
+
+What this means for Kant is that the world of appearances--everything we see and experience--is dictated by _natural necessity_. Things that we experience follow from one another in a necessary succession. This seems pretty troubling for any idea of free will, but we'll see why Kant doesn't think so.
+
+In his antinomies, Kant presents a number of thesis/antithesis pairs. These are, according to Kant, equally valid arguments for and against a number of statements: included among these is a thesis/antithesis pair where the thesis argues that we have free will and the antithesis argues that we don't. I won't go into detail about the arguments themselves here, but Kant takes these contradictions to be symptomatic of something about reason. In particular, on Kant's view, something called _transcendental realism_ is the culprit.
+
+Transcendental realism holds that appearances "exist independently of us and our sensibility, and are therefore outside us" (_Critique_, A369). Kant takes his antinomies to be a proof of a different view called _transcendental idealism_, which states that appearances only exist in our perception of them, i.e. _not_ independently of us.
+
+More concretely, think of an apple sitting on your kitchen table. If you're staring at that apple, you'll see a brown stem, a red body with light shining off of it, and other apple-related things. Transcendental realism would say that those things you are seeing belong to the apple itself. Transcendental idealism says that instead, the "apple" you're perceiving is a _thing in itself_, distinct from the appearance that is being presented to you. The redness, the brown stem, and anything else you see and attribute to this "apple" do not belong to the "actual" apple, but only to your perception. So you cannot say "the apple is read", but you can say "the apple _appears_ red to beings with my visual-sensory system."
+
+Cool. Where does all this get us w/r/t/ free will?
+
+We've made two main points so far:
+1. Appearances are dictated by natural necessity
+2. Appearances are distinct from things in themselves
+
+You might be able to guess where Kant is going already: natural necessity and free will don't seem compatible (indeed, they aren't). But there's still room for free will: it's just not in the world of appearances.
+
+But to be more precise, Kant thinks that you have an _empirical character_ and an _intelligible character_. You, too, are a thing in itself, and therefore your appearance, or the appearances of things you do, are distinct from you as a thing in itself. Your empirical character is how you, or things you do, manifest themselves in experience. If I throw a bowling ball at a bunch of pins, my arm's movement and resulting terrible miss correspond to my empirical character. Besides that, you have your intelligible character, “through which [you are] indeed the cause of those actions as appearances, but which does not stand under any conditions of sensibility and is not itself appearance” (_Critique_, B567).
+
+Since you as a cause-of-your-actions are distinct from how those actions actually manifest in experience, you get to have some kind of free will that exists in your intelligible character. We don't get to go so far as to say that you _actually_ have that free will, and Kant doesn't go so far as to defend this (although he would probably like to), but we can say that the natural necessity we talked about above doesn't rule out the _possibility_ of free will.
+
+In a sentence, Kant's argument is this: Given transcendental idealism, we cannot rule out the possibility of free will.
+
+Kant does seem to want to take this further, to go all the way to saying that something transcendental (our free will) can influence the empirical. Kant states:
+
+"Although the effects of this thinking and acting of the pure understanding are encountered among appearances, these must nonetheless be able to be explained perfectly from their causes in appearance... following its merely empirical characters as the supreme ground of explanation" (_Critique_, B574).
+
+We get two things from this:
+1. Kant seems to think that thinking and acting of the pure understanding (as far as we're concerned, free will) manifest themselves in our experience
+2. Even though we can perceive free will's effects in appearance, we can only understand those effects as explained through their empirical character
+
+This second bit is a little harder: what Kant wants to say here is that although I might be able to cause an event--like a baseball crashing through a window--using my free will and _see_ that event, I can only understand that event as occurring as part of a sequence of empirical events that follow one another according to natural necessity.
+
+This doesn't feel totally convincing (maybe I've just given a bad example--feel free to think up a different one). In fact, I'm not totally convinced that given transcendental idealism, Kant can get to a free will that is "free" in any meaningful sense.
+
+Why might this be? Well, Kant himself concedes that even if actions of the pure understanding affect something in the empirical world, there is no way we would be able to perceive those effects in the empirical world as arising from anything other than the ceaseless tumbling forward of natural necessity. Therefore, even though your free will _could_ cause some sort of effect in the empirical world, it would be wholly imperceptible.
+
+Furthermore--I find this even more troubling for Kant if he wants any meaningful sense of free will--our understanding must always conceive of things as arising from natural necessity. What this means for free will is that any act of free will on appearances could also be explained by a sequence of natural causes alone, even if the true effect is purely an act of the free will or a combination of actions of nature and the free will. Therefore, it seems that in the empirical world, free will does not have the ability to produce anything that _could not have happened otherwise_. It is certainly possible that a sequence of natural events that _would_ not have happened will occur only with free will's prodding, but that sequence of events is wholly within the space of possiblity for nature, alone and unaided.

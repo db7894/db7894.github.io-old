@@ -1,0 +1,140 @@
+---
+layout: post
+categories: blogpost
+title: Kant's Defense of <i>a priori</i> Concepts
+excerpt: It's Kant vs. Hume in this absolutely monstrous smackdown
+---
+
+### Intro: Hume Attacks
+
+If you've read up on philosophical debates concerning the laws of nature, you've
+likely heard about two opposing views: the <i>inflationist</i> and <i>deflationist</i>.
+In this context, inflationism tells us that natural laws are something <i>over</i>
+and <i>above</i> the phenomena they describe--they <i>dictate</i> what occurs. To
+give an example, an inflationist would say that a planet experiences a gravitational
+force from the sun because there is a natural law that applies to this case.
+
+On the other hand, deflationism asserts that natural laws merely <i>describe</i>
+observed phenomena--they are regularities in events. Under a deflationist account,
+we have always observed that objects with mass experience or exert gravitational
+forces, and the law of gravity merely describes that regularity. Inflationism and
+deflationism are more general ideas that extend far beyond natural laws, in fact.
+Depending on how strict of an empiricist you are, you may hold deflationist views
+about a lot of things. For example, an inflationist version of the concept of
+self states that the self is something like a "container" in which someone's
+perceptions inhere. An inflationist concept of causality would state that event
+B always follows event A because there is some overarching causal law that
+necessitates B once A has occurred. A deflationist would reject both of these
+ideas, and might justify it by arguing that since we never encounter the self or
+law (the thing that is "over and above"), we cannot justify its existence
+(justification empiricism) or we cannot form a coherent concept of it (concept
+empiricism).
+
+There's plenty to be said about the inflationist/deflationist debate itself, but
+what I'm interested in writing about is how Kant will defend a number of these
+concepts from Hume, who wishes to deflate and reformulate concepts like causality
+and the self. Let's look at how he does this in the case of the self:
+
+1. Content empiricism: our ideas/concepts come from perceptions
+2. The self is a substance in which all my perceptions inhere
+3. I need to have an idea of the self in order to speak of it, otherwise it is unintelligible
+4. I perceive my perceptions, but not the thing in which my perceptions inhere
+5. I have no idea of a self
+6. The concept of self is unintelligible
+
+Interestingly, we could take the argument above and substitute justification
+empiricism for content empiricism, yielding an argument that we have no justification
+for believing in the concept of a self. We can construct a similar argument about
+causality by disposing of the intermediate steps and instead using the observation
+that we perceive causes and effects, but nothing that conjoins those causes and
+effects. However, Hume is after a different conclusion in the case of causality
+because he believes the concept of causality is intelligible, but misguided.
+
+### Trouble for Hume's Conclusions
+
+There's some trouble for Hume in the case of the self. If we are to take Hume's
+conclusion, it tells us that there is no unifying "container" that corresponds to
+a self. Therefore, the "self" is really only a bunch of perceptions. And, being
+content empiricists, we cannot say that there is a concept of <i>anything at all</i>
+over and above these perceptions that connects or binds them in any way. Since
+this is a general statement about perceptions, it leads us to a troubling
+conclusion: we cannot form a concept of any division between concepts belonging
+to different selves, and reality merely consists of a bunch of perceptions without
+any separation--it's a sea of perceptions. The fact that the argument above gets
+us here led Hume to acknowledge that it posed a major issue to Hume's account of
+the self. We will soon see Kant exploit this very issue in his defense of
+<i>a priori</i> concepts.
+
+Furthermore, you might dislike Hume's conclusions for reasons besides his discomfort,
+and potential issues with deflating the self don't rescue us from the denial of
+other concepts that Hume attacks. So, where do we go from here? If you take Hume's
+premise, the rest of the argument does seem to hold its ground. If you're convinced
+by that argument, then I have only one exit door to offer you: _don't be an
+empiricist_. I think that Hume makes a strong case that we can't derive concepts like
+causality and self from our experience alone, but I would be hard-pressed to concede
+that I have no concept of a self or causality. Where does that leave us? For the
+non-empiricist, the answer is that there may be concepts, like the self and
+causality, that exist _prior_ to any experience we might have. These are precisely
+the _a priori_ concepts Kant is concerned with--we will soon turn our attention
+to his initial defense of causality, then to his defense of _a priori_ concepts
+more generally. First, we need to review a few definitions that will be important
+later:
+
+- <b>Combination</b>: This is actually the "combination" that you're thinking of: putting several concepts together. What is vital for us here is that "among all representations <b>combination</b> is the only one that is not given through objects but can be executed only by the subject itself, since it is an act of its self-activity" (_Critique_, B130). So when I think of the combination of horse and man, Horseman (or, centaur), nothing in the two objects performed the combination that gave rise to the hybrid object--it was my understanding acting on its own that produced this combination.
+
+- <b>Apperception</b>: This is a really important concept throughout the _Critique_--I'll follow Kant's presentation in B132. First off, the <b>intuition</b> is the "representation that can be given prior to all thinking" - while an intuition is related to the "I think" of the same subject who possesses the intuition, the representation does not itself belong to sensibility. The <b>pure apperception</b>, as distinct from the empirical, is then the self-consciousness that accompanies all representation and "which in all consciousness is one and the same, cannot be accompanied by any further representation." In short, the pure apperception is something like a <i>unified self-consciousness</i>. Establishing the existence of this pure apperception is what allows us to re-inflate the concept of self and dig ourselves out of the hole Hume put us in.
+
+- <b>Synthesis</b>: A more general title for combination, used "to draw attention to the fact that we can represent nothing as combined in the object without having previously combined it ourselves" (B130). We can also recall Kant's earlier definition: "By <i>synthesis</i>, in its most general sense, I understand the act of putting different representations together, and of grasping what is manifold in them in one knowledge" (_Critique_, B103).
+
+### Kant's Defense I: The Synthetic Unity of Apperception
+
+Kant's first pass at saving concepts defends that we must have an <i>a priori</i>
+concept of causality by way of the idea that we can observe one thing changing
+and one thing staying the same--to even sort out what it is we are observing, we
+must start out with the concept of an objective vs subjective time order, for
+otherwise we would not be able to determine the order in which things occur. But
+one thing being determined by a prior thing in objective time order is precisely
+the concept of causality. While interesting, my professor's friend <b>Evil Hume</b>
+responds by becoming <i>even more skeptical</i>: we started with the assertion that
+we can experience one thing changing and one staying the same, so Evil Hume might
+go even farther and deny <i>that</i>.
+
+What Kant needs, then, is to begin his defense with a premise about the organization
+of our experience that Hume would not want to or be able to deny. You might see where
+this is going (since we kind of set it up): the strategy for Kant is to start with
+something undeniable about our experience, using that to re-inflate the idea of
+the self. Once we have established the conscoiusness of a unified self, we can delve further to give weight to the _a priori_ concepts that, to Kant, structure our experience. My reconstruction of Kant's argument as presented in the Transcendental Deduction is below:
+
+1. I can combine a manifold of given representations <b>in one consciousness</b> (_Critique_, B133).
+2. Thus, it is possible for me to represent the <b>identity of the consciousness in these representations itself</b> (_Critique_, B133).
+3. These representations belong <b>to me</b>, so I can unite them in a self-consciousness.
+4. This presupposes the possiblity of the consciousness of the <b>synthesis</b> of these representations (_Critique_, B133-134).
+5. Thus, such synthetic unity of the manifold of intuitions (as given <i>a priori</i>) is the ground of the identity of apperception itself, which precedes <i>a priori</i> all <b>my</b> determinate thinking (_Critique_, B134).
+6. So I am conscious <i>a priori</i> of the necessary synthesis of my representations--this is called the original synthetic unity of apperception, under which all representations given to me stand and under which they must be brought by means of a synthesis (_Critique_, B135-136).
+
+Whew, that was a lot! To be fair, this defense is, according to Kant, "the most difficult task ever undertaken in the service of metaphysics." But with our definitions from earlier in hand, the first three statements should be relatively straightforward from our preparation: because I can combine representations in one consciousness, I can represent the identity of that consciousness in these representations.
+
+Now, let's take a look at the second half. Step 4 is tricky. To represent the identity of the consciousness, it must be possible for me to be conscious of the synthesis of representations--in Kant's example, the "analytical unity of consciousness pertains to all common concepts" in the sense that if I think of a color such as red, I am representing something that I can encounter in something else (like a car) or combine with another representation (like a car!). Because this _synthesis_ of representations is possible, the _analytic_ unity of the consciousness that performs the synthesis is, therefore, possible. That analytic unity is precisely my ability to represent the consciousness as something unified.
+
+The way through the thickets should be clearer now: we can see that, as stated in step 5, the "synthetic unity of the manifold of intuitions" grounds the identity of apperception because it allows me to represent my unified self-consciousness (which is the apperception). This is really just putting together the puzzle pieces that we've found so far.
+
+Finally, we turn to step 6. As we finish this off, note that none of the arguments so far has relied on any input from experience--my ability to combine representations does not require anything from experience, and the following deductions all regard transcendental ideas (hence the name of the section: _Transcendental deduction_ of pure concepts of the understanding). This entire step is a somewhat long-winded way of saying that I am conscious that all my representations _inhere_ in an _identical self_--this is precisely the perception-container that Hume tried to do away with earlier. We've finally made it: this unity of consciousness "is that which alone constitutes the relation of representations to an object, thus their objective validity, and consequently is that which makes them into cognitions and on which even the possibility of the understanding rests" (_Critique_, B137).
+
+### Kant's Defense II: From Synthetic Unity to _a priori_ Concepts
+
+Let's follow this line to the end: the synthetic unity of apperception is the first "pure cognition of the understanding", which stands independent of sensible intuition but grounds the rest of the use of the understanding (_Critique_, B138). If I want to cognize anything that is _not_ independent of the conditions of sensible intuition, my unified self is also required to do so: this shows that the synthetic unity of consciousness is "an objective condition of all cognition... something under which every intuition must stand __in order to become an object for me__" (_Critique_, B138). This is to say that _my experience is organized_ in that there is a single "I" who perceives multiple data and that these data are all experienced from a single perspective: mine.
+
+Pushing further, this organization and inhering of experience points to the statement that the only _objectively valid judgments_ I can make are those where representations are combined in that necessary unity of the apperception: to use Kant's example, I may not say that "this body is heavy"--this combines representations in the object (the body). On the other hand, I may say, "If I carry a body, I feel a pressure of weight" (_Critique_, B142). The representations of "body" and "weight" are combined in a singular cognition.
+
+It is the action of the understanding to form judgments such as this one--so anything given in a single empirical intuition "is __determined__ in regard to one of the logical functions for judgment... the __categories__ are nothing other than these very functions for judging" (_Critique_, B143). So, Kant concludes, the manifold in a given intuition stands under these categories, and this is what we wished to prove. It doesn't sound quite like what we had set out for on face, so let's recap what's being said here. When performing synthesis using empirical concepts, I also employ _a priori_ concepts such as causality--this is a constant thread through _all_ synthesis of experience (Kreines). If X is given in empirical intuition, to determine X in regard to a category (one of the logical forms for judgment) is to perform synthesis using X and that category. The categories that Kant is referring to are precisely the _a priori_ concepts we sought.
+<br><br><br>
+
+
+### Citations (I'm too lazy to cite each lecture individually so they're clumped in [3]):
+
+
+[1] Hume, David, David Fate Norton, and Mary J. Norton. <i>A Treatise of Human Nature</i>. Oxford: Oxford University Press, 2000.
+
+[2] Kant, Immanuel. <i>The Critique of Pure Reason</i>. Trans. Paul Guyer and Allen Wood. Cambridge University Press, 1998.
+
+[3] Kreines, James. Philosophy 198: Kant and the Crisis of Reason. Claremont McKenna College, Claremont. Multiple lectures.

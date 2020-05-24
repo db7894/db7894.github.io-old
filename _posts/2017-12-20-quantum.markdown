@@ -1,0 +1,20 @@
+---
+layout: post-wide
+hero-bg-color: "#564675"
+uid: quantum
+title:  "Quantum-Secure Key-Exchange Scheme"
+worktype: "Development"
+date:   2018-10-20 01:01:01
+categories: project
+project_site_url: https://github.com/db7894/
+project_site_slug: https://github.com/db7894/
+personal_project: true
+role: Developer
+dates: 2018 - 1 month
+team:
+- Daniel Bashir
+stack: Python, numpy, scipy
+contribution:
+- Implemented a key-exchange encryption scheme based on “A Simple Provably Secure Key Exchange Scheme Based on the Learning with Errors Problem” utilizing Numpy and Scipy
+- Used encryption scheme to test safety of various simple key exchanges
+---
