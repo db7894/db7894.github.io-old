@@ -1,0 +1,47 @@
+---
+layout: post
+categories: blogpost
+title: Hong Kong and the West: Friend, or Diplomatic Tool?
+excerpt: What is the source of the West's interest in Hong Kong?
+---
+
+After losing the First Opium War to Britain in 1842, China ceded Hong Kong to British administrative rule as part of the Treaty of Nanjing. The Chinese emperor and his negotiators, "uncertain about exactly what political and commercial interests they should defend" (Wang 12), did little negotiating, effectively giving the British everything they asked for in exchange for leaving China. Hong Kong would be leased to Britain for 99 years after the Second Opium War in 1898. It was during the following years of the 20th century that Hong Kong's fate and society would be engineered by the Crown.
+
+During the second half of the 20th century, Hong Kong underwent an economic miracle. While the British will take credit for much of the economic success of their former colony, the truth is much more complicated. While Hong Kong's experience of economic development is something out of a laissez-faire capitalist's dream--with low taxes, lax employment laws, free trade--the British were likely not totally altruistic towards the burgeoning international trade hub. According to Henry C K Liu, the British "deftly manipulated the economy of Hong Kong... to opportunistically respond to changing global geopolitical sources for Britain’s benefit" (Liu).
+
+As the handoff approached, Britain's Iron Lady would meet steel in Deng Xiaoping. While Britain wanted to preserve the last of its imperial colonies in its image, China desired to enter the world stage on equal footing with major superpowers, in part by showing that it could manage Hong Kong as well as the British did. The Joint Declaration between Thatcher and Deng signed named Hong Kong a Special Administrative Region under Beijing, and states that Hong Kong "will enjoy a high degree of autonomy, except in foreign and defence affairs which are the responsibilities of the Central People’s Government."
+
+The "One Country, Two Systems" policy would be an incredibly important facet of life for Hong Kong citizens from then on. The British, for their part, seemed to hope that Hong Kong would eventually realize true democracy. But protests would break out in 2015 as Beijing seemed to renege on its promises to allow Hong Kong autonomous elections. The Umbrella Revolution splattered Hong Kong across headlines, and ever since then the former colony has been rife with political tension.
+
+If you learn about Hong Kong from Western news sources, you will likely hear a story about a former British colony striving for one of the greatest ideals--democracy--against a Communist government seeking to take away its people's rights. As tensions have arisen again in 2019 and 2020, the United States has had its say: Secretary of State Mike Pompeo "took aim at China on multiple fronts on Wednesday, including Beijing’s treatment of protesters in Hong Kong" (SCMP).
+
+Before cheering on the administration for its defense of Hong Kong's civil liberties, let's look at some historical trends. For its part, the United States has attempted to change other countries' governments 72 times since the Cold War, many times with the justification of spreading democracy (Washington Post). In addition to visible failures in Libya, Yemen, and Iraq (Foreign Policy), the United States' efforts have often resulted in devastation for the target countries, making them more likely to suffer "civil war, domestic instability and mass killing" (Washington Post).
+
+The history tells us that the United States' efforts at global democracy promotion have been met with mixed success at best. In some cases, its realpolitik has even led to propping up authoritarian regimes, such as in the US-orchestrated 1953 Iranian coup d'état which overthrew a democratically-elected government and supported Mohammad Reza Pahlavi's authoritarian rule. While it is hard to imagine violent action taken in Hong Kong, it is worth considering where the United States' interest comes from and why America wishes to defend Hong Kong.
+
+The Diplomat charges Beijing with an interpretation of the "One Country, Two Systems" policy as a precursor to more centralized rule over Hong Kong. Its assessment of the situation also seem to reflect broader trends: it claims that "China's growing centralized, authoritarian controls over Hong Kong have undermined freedom and rule of law in the territory, forcing the Western countries to stand up for their own interests" and that "wider geopolitical conflicts arising from China’s expanding influence are changing the Western countries' approach to Hong Kong's autonomy."
+
+Indeed, it is difficult to defend Beijing. Recent coverage of actions by the CCP have been riddled with violations of citizens' rights and problematic polices. The persecution of the Uighurs is a particularly horrid example of Beijing's recent efforts to bolster its surveillance capabilities, an endeavor that has been supported by AI companies such as iFlytek, whose speech-recognition breakthroughs have allowed the CCP's surveillance networks to take advantage of voice data in addition to other sources.
+
+In addition to the United States' speaking out against Beijing's abuses, the expansion of surveillance has led the United States to blacklist companies like iFlytek, nullifying partnerships such as iFlytek's widely-publicized collaboration with MIT. But even the MIT story belies a more complicated dialogue: an MIT graduate student's moral objection to funding from iFlytek was met with a request to return payments he had already received if he did not find other funding for his work. Until the official termination was announced this February, the partnership continued to lend iFlytek credibility.
+
+There appears to be some level of inconsistency in the US's interest in Hong Kong. In spite of recent announcements in support of Hong Kong, "the United States has offered unconditional and comprehensive support of the opposition groups – and that has inevitably led to more radical activities, which exacerbated social and economic turmoil in Hong Kong" (The Diplomat). The turmoil severely impacts Hong Kong while the effects of the US's support also damage American interests. Even the recent "Hong Kong Human Rights and Democracy Act, which passed last fall with bipartisan support in Congress," was signed only with reluctance because of Trump's desire to strike a trade deal with President Xi (NYT).
+
+With Sino-US relations marred by tension and conflict, we will likely continue to see the US speak out on Hong Kong's behalf and perhaps consider Hong Kong's interests in its policy--the removal of Hong Kong's preferential status would subject it to the same tariffs China faces. But as a "stateless nation" (The Diplomat), Hong Kong's fate will hang in the balance as major world powers throw their weight around. If there's anything the United States' actions teach us, it's that US administrations will not offer unconditional support for places like Hong Kong. We cannot expect research groups _in_ the US to give due consideration to the potentially nefarious uses of their work. Even Britain has too much at stake to confront China (The Guardian).
+
+This seems to mean, unfortunately, that Hong Kong has no one to look to for help. The United States or Britain may consider speaking out for Hong Kong or protecting it, but only when the benefits outweigh any inconvenience. As Beijing continues to renege on promises, Hong Kongers appear to have no choice left but to protest. To scream for help. To draw the eyes of the world to their plight. But Hong Kong is, as it has always been, a city apart. It is a city apart from all of us, and its citizens may be left to vote with the stamps of their feet and the wind in their lungs.
+
+
+Sources:
+[1] https://www.scmp.com/news/world/united-states-canada/article/3082224/mike-pompeo-lashes-china-over-arrest-hong-kong
+[2] https://foreignpolicy.com/2016/04/25/why-is-america-so-bad-at-promoting-democracy-in-other-countries/
+[3] https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/23/the-cia-says-russia-hacked-the-u-s-election-here-are-6-things-to-learn-from-cold-war-attempts-to-change-regimes/
+[4] https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/List_of_authoritarian_regimes_supported_by_the_United_States.html
+[5] https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change
+[6] https://thediplomat.com/2019/10/the-future-of-hong-kongs-autonomy/
+[7] https://www.pbs.org/newshour/features/uighurs/
+[8] https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/
+[9] https://thediplomat.com/2020/05/what-are-americas-interests-in-hong-kong/
+[10] https://www.nytimes.com/2020/05/22/world/asia/trump-pompeo-china-hong-kong.html
+[11] https://www.nytimes.com/2020/05/23/world/asia/hong-kong-china.html
+[12] https://www.theguardian.com/politics/2020/may/22/uk-has-too-much-at-stake-to-confront-china-over-hong-kong
