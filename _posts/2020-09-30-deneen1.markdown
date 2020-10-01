@@ -1,0 +1,42 @@
+In Patrick Deneen’s _Why Liberalism Failed_, he immediately sets out a contradictory perspective of liberalism: that liberalism, by way of its own success, achieves 
+the precise opposite of its very goals. Deneen identifies a number of areas in which this occurs, but two that ring interesting, and relevant for me, are those of 
+education and science/technology. Deneen describes a survivalist meritocracy, in which the younger generations have no other choice but to be “cynical participants 
+in a system that ruthlessly produces winners and losers,” spending every waking moment trying to get to the top or face the possibility of falling into a bottomless 
+pit (11). At the same time, students are encouraged to pursue STEM while we bear witness to “the headlong evacuation of the liberal arts” and adopt “the educational 
+form that was reserved for those who were deprived of freedom” (13).
+  
+I went to a college that promised two things: a rigorous STEM education and a liberal arts background. Among those who have heard of Harvey Mudd College, it is well 
+known that the school insists its students are schooled in the basics of every discipline it offers: mathematics, physics, chemistry, biology, engineering, and 
+computer science. Simultaneously, Mudd touts its status as a liberal arts school and its hope to give students a well-rounded education, requiring each student to 
+pursue a four-course “concentration” in a non-STEM field (ironically, many students choose Economics for this minor) and to sample courses from at least five 
+different areas of the humanities. 
+
+But does it truly achieve its purpose? To my mind, the purpose of a liberal arts education is to give one the tools to be a complete human being: not merely a 
+computer programmer or chemistry researcher, but a scientist/engineer/what-have-you who also appreciates the value of classical literature, of music, of the study 
+of foreign language. At the same time, in an almost Aristotelean sense, such a well-rounded person, in my view, also recognizes the need for a “leisure” of sorts, 
+purposed to the consideration of ideas and to reflection. 
+	
+For its students, at least, Mudd offers no such luxury. For three often grueling semesters, the Core curriculum leaves students with little time of their own. 
+Humanities classes are frequently chosen for ease and as a respite from the demands of a relentless march of problem sets and exams throughout the semester. In my 
+case, at least, there was little opportunity for reflection on or enjoyment of what I was learning. 
+
+Besides this, many aspects of Mudd’s culture made me feel guilty for spending what extra time I did have reading books rather than studying for programming 
+interviews or doing side projects. Indeed, the tech culture I have been initiated into, and Harvey Mudd as a microcosm of that culture, valorize the “rise and 
+grind” mentality that demands we spend every waking moment doing something “productive” and brag about our sleep deprivation. 
+
+These aspects of culture are regrettable, but are they, in fact, symptoms of liberalism? To Deneen, science and technology are accomplices in humanity’s attempt to 
+free itself from the tyranny of nature, a series of battles culminating in “elements of what we today call our environmental crisis,” which signal “battles won but 
+a war being lost” (14). Deneen says that the advance of science and technology as a proxy for civilizational progress has not only created the climate crisis we 
+face today, but also subjugated us to the devices and technology that promised us liberation and “expression of our true selves” (15). While many students at 
+Harvey Mudd are willing to consider the impact of their work on society, I did not see nearly as many conversations about the number of alumni who went to work at 
+certain tech companies as about defense contractors. While I don't think these conversations should be necessarily centered around criticism, I do think having
+students spend more time considering the sort of impact they would like to have is beneficial.
+
+Perhaps aspects of liberalism did open the space for many of the innovations that now beleaguer us from every direction. The individualistic instinct that Deneen 
+ascribes to it certainly has been a bedrock for the culture in places like Silicon Valley, where it feels like every person wants to create a startup and 
+relationships seem to be more transactional than genuine. Deneen describes liberalism’s view of humans as “rights-bearing individuals who could fashion and pursue 
+for themselves their own version of the good life” (1). In a field like technology, I find, the most ubiquitous version of the “good life” seems to be securing a 
+job at Google—hardly seems to be an individualized creed. 
+
+I can see the beginnings of how Deneen might ascribe these various ills to liberalism’s pursuit of its ends, but as what I’ve written so far likely demonstrates, 
+the argument isn’t yet complete. I’m interested to see how he connects the dots. 
